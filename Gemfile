@@ -4,8 +4,8 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-bundle install     
-bundle exec jekyll serve
+# bundle install     
+# bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
@@ -15,7 +15,7 @@ gem 'jekyll','4.0.0'
 
 # deployment
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+# gem "minimal-mistakes-jekyll"
 
 gem "tzinfo-data"
 
@@ -30,3 +30,4 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem 'jekyll-remote-theme'
 end
+bundle
