@@ -6,7 +6,7 @@ caption: 'Sensics' products, as do other head-mounted displays, are typically us
 license_url: 'https://creativecommons.org/licenses/by-sa/4.0/deed.en'
 license_text: Creative Commons
 categories:
-  - displays
+  -
 tags:
-  - Noise Cancelling headphones
+  -
 ---
