@@ -1,7 +1,7 @@
 ---
 author: Avlonitis Spyros
 title: Head Mounted Displays
-image_url: images/XSight_HMD.jpg
+image_url: /images/XSight_HMD.jpg
 caption: 'Sensics' products, as do other head-mounted displays, are typically used with peripherals such as those that perform motion tracking and eye tracking.
 
 Applications
